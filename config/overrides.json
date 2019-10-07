@@ -138,5 +138,8 @@
   },
   "/Lotus/Weapons/Tenno/Melee/LongSword/SkanaPrime": {
     "tradable": false
+  },
+  "/Lotus/Types/Recipes/Kubrow/Collars/PrimeKubrowCollarABlueprint": {
+    "ducats": 42
   }
 }
