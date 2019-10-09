@@ -140,6 +140,12 @@
     "tradable": false
   },
   "/Lotus/Types/Recipes/Kubrow/Collars/PrimeKubrowCollarABlueprint": {
-    "ducats": 42
+    "ducats": 45
+  },
+  "/Lotus/Types/Recipes/Kubrow/Collars/PrimeKubrowCollarABandComponent": {
+    "ducats": 45
+  },
+  "/Lotus/Types/Recipes/Kubrow/Collars/PrimeKubrowCollarABuckleComponent": {
+    "ducats": 65
   }
 }
